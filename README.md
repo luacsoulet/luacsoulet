@@ -1,7 +1,6 @@
-# Hi I'm Lucas ! 👋
+# Hi I'm Lucas ! 👋 
 
-I'm currently developing SeekReviews, an app for rating and reviewing books and movies.  <br>At the same time, I'm learning Python and exploring the basics of Machine Learning.  <br>I'm also getting into data processing and analysis to build a solid foundation in AI.  
-
+Data Engineer | Data & AI Student — Actively building a video game release hype prediction model.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@luacsoulet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magalhaes-lucas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/luacsoulet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasmagalhaes45200@gmail.com) 
